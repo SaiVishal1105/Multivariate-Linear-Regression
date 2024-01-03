@@ -1,6 +1,6 @@
 # Implementation of Multivariate Linear Regression
 NAME: SAI VISHAL D<BR>
-REF>NO: 23013576
+REF.NO: 23013576
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
